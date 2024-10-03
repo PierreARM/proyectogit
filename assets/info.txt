@@ -1,3 +1,4 @@
+cambios desde GitHub Web
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Nam ornare est ac imperdiet porttitor. Nulla rhoncus efficitur mauris ac malesuada. 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
@@ -5,6 +6,3 @@ Morbi pellentesque, mauris sit amet luctus varius, enim urna molestie odio, ac l
 Mauris id purus eu nunc ultrices posuere quis id turpis. 
 Duis suscipit sem ut nisl consequat, sed ornare arcu posuere. 
 Pellentesque mollis consectetur neque non posuere. Cras est sem, eleifend ut rhoncus eget, lacinia sed ligula. 
-Proin sit amet sagittis metus, ac laoreet eros. Vestibulum quam elit, venenatis quis cursus nec, pellentesque sit amet leo. 
-Proin velit libero, posuere id felis vitae, faucibus malesuada metus. Aliquam bibendum ante nec risus faucibus condimentum. 
-Donec sed purus ut massa commodo rutrum in viverra lorem. Nunc ultricies tincidunt nibh nec hendrerit. Nunc sed vulputate leo.
