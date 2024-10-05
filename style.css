@@ -12,7 +12,7 @@ nav {
 }
 
 /*creating the two-column layout*/
-* {
+*{
   box-sizing: border-box;
 }
 .row {
